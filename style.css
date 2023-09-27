@@ -18,6 +18,7 @@ div {
 }
 div img {
     height: 40px;
+    filter: invert(100%)
 }
 h2 {
     font-size: 20px;
